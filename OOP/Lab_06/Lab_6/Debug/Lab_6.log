@@ -1,0 +1,8 @@
+﻿  Lab_6.cpp
+  Numbers.cpp
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_06\Lab_6\Numbers.cpp(13,27): warning C4018: <: несоответствие типов со знаком и без знака
+  Rows.cpp
+  Symbols.cpp
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_06\Lab_6\Symbols.cpp(13,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  Lab_6.vcxproj -> C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_06\Debug\Lab_6.exe

@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab7\Lab7_Lib\bin\Debug\Lab7_Lib.dll
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab7\Lab7_Lib\bin\Debug\Lab7_Lib.pdb
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab7\Lab7_Lib\obj\Debug\Lab7_Lib.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab7\Lab7_Lib\obj\Debug\Lab7_Lib.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab7\Lab7_Lib\obj\Debug\Lab7_Lib.dll
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab7\Lab7_Lib\obj\Debug\Lab7_Lib.pdb

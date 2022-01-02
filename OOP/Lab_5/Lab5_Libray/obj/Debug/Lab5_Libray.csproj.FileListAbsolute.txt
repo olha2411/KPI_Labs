@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_5\Lab5_Libray\bin\Debug\Lab5_Libray.dll
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_5\Lab5_Libray\bin\Debug\Lab5_Libray.pdb
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_5\Lab5_Libray\obj\Debug\Lab5_Libray.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_5\Lab5_Libray\obj\Debug\Lab5_Libray.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_5\Lab5_Libray\obj\Debug\Lab5_Libray.dll
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_5\Lab5_Libray\obj\Debug\Lab5_Libray.pdb

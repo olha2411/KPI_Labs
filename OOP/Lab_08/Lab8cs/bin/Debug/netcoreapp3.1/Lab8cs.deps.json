@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lab8cs/1.0.0": {
+        "dependencies": {
+          "Lib8": "1.0.0"
+        },
+        "runtime": {
+          "Lab8cs.dll": {}
+        }
+      },
+      "Lib8/1.0.0": {
+        "runtime": {
+          "Lib8.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab8cs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lib8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

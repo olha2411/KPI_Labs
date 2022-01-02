@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_3\Lab_3\bin\Debug\netcoreapp3.1\Lab_3.exe
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_3\Lab_3\bin\Debug\netcoreapp3.1\Lab_3.deps.json
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_3\Lab_3\bin\Debug\netcoreapp3.1\Lab_3.runtimeconfig.json
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_3\Lab_3\bin\Debug\netcoreapp3.1\Lab_3.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_3\Lab_3\bin\Debug\netcoreapp3.1\Lab_3.dll
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_3\Lab_3\bin\Debug\netcoreapp3.1\Lab_3.pdb
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_3\Lab_3\obj\Debug\netcoreapp3.1\Lab_3.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_3\Lab_3\obj\Debug\netcoreapp3.1\Lab_3.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_3\Lab_3\obj\Debug\netcoreapp3.1\Lab_3.AssemblyInfo.cs
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_3\Lab_3\obj\Debug\netcoreapp3.1\Lab_3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_3\Lab_3\obj\Debug\netcoreapp3.1\Lab_3.dll
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_3\Lab_3\obj\Debug\netcoreapp3.1\Lab_3.pdb
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_3\Lab_3\obj\Debug\netcoreapp3.1\Lab_3.genruntimeconfig.cache
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_3\Lab_3\bin\Debug\netcoreapp3.1\Lab3_Library.dll
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_3\Lab_3\bin\Debug\netcoreapp3.1\Lab3_Library.pdb
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_3\Lab_3\obj\Debug\netcoreapp3.1\Lab_3.csproj.CopyComplete

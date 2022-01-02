@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_06\Lab_6cs\bin\Debug\netcoreapp3.1\Lab_6cs.exe
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_06\Lab_6cs\bin\Debug\netcoreapp3.1\Lab_6cs.deps.json
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_06\Lab_6cs\bin\Debug\netcoreapp3.1\Lab_6cs.runtimeconfig.json
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_06\Lab_6cs\bin\Debug\netcoreapp3.1\Lab_6cs.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_06\Lab_6cs\bin\Debug\netcoreapp3.1\Lab_6cs.dll
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_06\Lab_6cs\bin\Debug\netcoreapp3.1\Lab_6cs.pdb
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_06\Lab_6cs\obj\Debug\netcoreapp3.1\Lab_6cs.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_06\Lab_6cs\obj\Debug\netcoreapp3.1\Lab_6cs.AssemblyInfo.cs
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_06\Lab_6cs\obj\Debug\netcoreapp3.1\Lab_6cs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_06\Lab_6cs\obj\Debug\netcoreapp3.1\Lab_6cs.dll
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_06\Lab_6cs\obj\Debug\netcoreapp3.1\Lab_6cs.pdb
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_06\Lab_6cs\obj\Debug\netcoreapp3.1\Lab_6cs.genruntimeconfig.cache
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_06\Lab_6cs\obj\Debug\netcoreapp3.1\Lab_6cs.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_06\Lab_6cs\bin\Debug\netcoreapp3.1\RowsLibrary.dll
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_06\Lab_6cs\bin\Debug\netcoreapp3.1\RowsLibrary.pdb
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_06\Lab_6cs\obj\Debug\netcoreapp3.1\Lab_6cs.csproj.CopyComplete

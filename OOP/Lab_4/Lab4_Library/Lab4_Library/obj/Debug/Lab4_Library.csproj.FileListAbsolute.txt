@@ -1,0 +1,12 @@
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_4\Lab4_Library\Lab4_Library\bin\Debug\Lab4_Library.dll
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_4\Lab4_Library\Lab4_Library\bin\Debug\Lab4_Library.pdb
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_4\Lab4_Library\Lab4_Library\obj\Debug\Lab4_Library.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_4\Lab4_Library\Lab4_Library\obj\Debug\Lab4_Library.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_4\Lab4_Library\Lab4_Library\obj\Debug\Lab4_Library.dll
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_4\Lab4_Library\Lab4_Library\obj\Debug\Lab4_Library.pdb
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab4\Lab4_Library\Lab4_Library\bin\Debug\Lab4_Library.dll
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab4\Lab4_Library\Lab4_Library\bin\Debug\Lab4_Library.pdb
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab4\Lab4_Library\Lab4_Library\obj\Debug\Lab4_Library.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab4\Lab4_Library\Lab4_Library\obj\Debug\Lab4_Library.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab4\Lab4_Library\Lab4_Library\obj\Debug\Lab4_Library.dll
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab4\Lab4_Library\Lab4_Library\obj\Debug\Lab4_Library.pdb

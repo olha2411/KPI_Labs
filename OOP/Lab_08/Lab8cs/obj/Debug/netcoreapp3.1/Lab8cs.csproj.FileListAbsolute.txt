@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_08\Lab8cs\obj\Debug\netcoreapp3.1\Lab8cs.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_08\Lab8cs\obj\Debug\netcoreapp3.1\Lab8cs.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_08\Lab8cs\obj\Debug\netcoreapp3.1\Lab8cs.AssemblyInfo.cs
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_08\Lab8cs\obj\Debug\netcoreapp3.1\Lab8cs.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_08\Lab8cs\bin\Debug\netcoreapp3.1\Lab8cs.exe
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_08\Lab8cs\bin\Debug\netcoreapp3.1\Lab8cs.deps.json
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_08\Lab8cs\bin\Debug\netcoreapp3.1\Lab8cs.runtimeconfig.json
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_08\Lab8cs\bin\Debug\netcoreapp3.1\Lab8cs.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_08\Lab8cs\bin\Debug\netcoreapp3.1\Lab8cs.dll
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_08\Lab8cs\bin\Debug\netcoreapp3.1\Lab8cs.pdb
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_08\Lab8cs\bin\Debug\netcoreapp3.1\Lib8.dll
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_08\Lab8cs\bin\Debug\netcoreapp3.1\Lib8.pdb
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_08\Lab8cs\obj\Debug\netcoreapp3.1\Lab8cs.csproj.CopyComplete
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_08\Lab8cs\obj\Debug\netcoreapp3.1\Lab8cs.dll
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_08\Lab8cs\obj\Debug\netcoreapp3.1\Lab8cs.pdb
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_08\Lab8cs\obj\Debug\netcoreapp3.1\Lab8cs.genruntimeconfig.cache

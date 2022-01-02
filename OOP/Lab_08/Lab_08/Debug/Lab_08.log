@@ -1,0 +1,6 @@
+﻿  Lab_08.cpp
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_08\Lab_08\Lab_08.cpp(13,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Lib.cpp
+  Создание кода...
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_08\Lab_08\Lib.cpp(67): warning C4715: List::operator[]: значение возвращается не при всех путях выполнения
+  Lab_08.vcxproj -> C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_08\Debug\Lab_08.exe

@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_06\RowsLibrary\bin\Debug\RowsLibrary.dll
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_06\RowsLibrary\bin\Debug\RowsLibrary.pdb
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_06\RowsLibrary\obj\Debug\RowsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_06\RowsLibrary\obj\Debug\RowsLibrary.dll
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_06\RowsLibrary\obj\Debug\RowsLibrary.pdb
+C:\Users\Admin\Desktop\КПІ\II semester\oop\labs\Lab_06\RowsLibrary\obj\Debug\RowsLibrary.csprojAssemblyReference.cache
