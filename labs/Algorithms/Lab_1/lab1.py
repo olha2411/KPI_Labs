@@ -9,14 +9,14 @@ def main():
     print(A)    
     B=[]
     B=copy.copy(A)
-    print("bubble_sort")
-    bubble_sort(n,A)
-    print("improved_bubble_sort")
-    improved_bubble_sort(n, B)
+    print("buble_sort")
+    buble_sort(n,A)
+    print("improved_buble_sort")
+    improved_buble_sort(n, B)
     print("sorted list: ")   
-    bubble_sorted_list(n, A)
+    buble_sorted_list(n, A)
 
-def bubble_sort(n,numbers):      
+def buble_sort(n,numbers):      
     i=0        
     cout=0
     for i in range(n):
@@ -28,7 +28,7 @@ def bubble_sort(n,numbers):
     print(cout) 
     
     
-def improved_bubble_sort(n, numbers):
+def improved_buble_sort(n, numbers):
     count=0
     for i in range(n):
         flag = False
@@ -44,7 +44,7 @@ def improved_bubble_sort(n, numbers):
     print(count) 
    
 
-def bubble_sorted_list(n, A):         
+def buble_sorted_list(n, A):         
     for i in range(n-1):
         for j in range(n-1):            
               if ((A[j]%2 !=0) and (A[j+1]%2 !=0) and (A[j]<A[j+1])) or ((A[j]%2 !=0) and (A[j+1]%2 ==0)) or\
